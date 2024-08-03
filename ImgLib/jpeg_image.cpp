@@ -141,4 +141,4 @@ Image LoadJPEG(const Path& file) {
     return result;
 }
 
-}//img_lib
+}// namespace img_lib
